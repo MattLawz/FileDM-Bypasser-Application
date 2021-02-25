@@ -27,6 +27,6 @@ Note: This must be a fresh FileDM file or it won't work, you can fix the problem
 
 [VirusTotal](https://www.virustotal.com/gui/file/97f7190a2ae9f19a6e6e5619ef9eeab2ee5d8fa5b7d6fcd747ba9c0009c59d2d/detection)
 
-**Note: VirusTotal has 2 false postivies, it is showing these 2 detections as the program goes through your internal PC info to find the HWID. But, you can always reassure yourself by going through the actual files as the program is open source!**
+**Note: The Virus scans do have some false positives, you can always reassure yourself by going through the actual files as the program is open source!**
 
 ---
