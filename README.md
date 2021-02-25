@@ -11,8 +11,14 @@ This bypasses a malicious file download manager.
 
 
 ---
-## What Is This Program & Uses
+## What Is This Program
 This is a C# application that bypasses a file download manager known as "FileDM", this install downloads adware onto your machine which isn't safe and in some cases can be hard to remove. This application is open source and can help people keep there machines safe!
+
+---
+## How To Use
+Drag and drop your FileDM file onto "FileDM Bypasser.Exe", it will open a new tab with your download if done properly.
+
+Note: This must be a fresh FileDM file or it won't work, you can fix the problem by reinstalling the file then trying again.
 
 ---
 
